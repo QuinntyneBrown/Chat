@@ -1,0 +1,17 @@
+{
+  "domainNamespace": "Chat.Api",
+  "applicationNamespace": "Chat.Api",
+  "infrastructureNamespace": "Chat.Api",
+  "apiNamespace": "Chat.Api",
+  "domainDirectory": "C:\\Projects\\Chat\\src\\Chat.Api",
+  "applicationDirectory": "C:\\Projects\\Chat\\src\\Chat.Api",
+  "infrastructureDirectory": "C:\\Projects\\Chat\\src\\Chat.Api",
+  "apiDirectory": "C:\\Projects\\Chat\\src\\Chat.Api",
+  "appDirectories": ["C:\\Projects\\Chat\\src\\Chat.App"],
+  "path": "C:\\Projects\\Chat",
+  "dbContext": "ChatDbContext",
+  "sourceFolder": "src",
+  "resources": [
+    "Message"
+  ]
+}
